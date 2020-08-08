@@ -1,5 +1,6 @@
 # minesweeper-game
-A Java Minesweeper game.
+A Java Minesweeper game.  
+Tests located in ExamplesMinesweeper class.
 
 ## Installation
 Download the zip or clone the repository to your PC.
